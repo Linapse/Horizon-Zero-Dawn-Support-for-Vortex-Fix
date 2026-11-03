@@ -15,19 +15,26 @@ making it unusable with newer versions of Horizon Zero Dawn (such as **2.8.2**).
 
 ## ✅ The Fix
 
-This repository contains fix for version (**0.0.2**) that fixes the reload
+This repository contains a fix for version (**0.0.2**) that fixes the reload
 loop, restoring normal operation of the extension in Vortex for recent game
 versions.
 
 ## 📥 Installation
 
-1. Download the fix from [Nexus Mods]().
-2. Open **Vortex** → **Extensions**.
-3. Either install the archive via the *"Install from file*" button,
-   or extract it manually into your Vortex extensions folder:
-   - Windows: `%APPDATA%\Vortex\plugins\game-horizonzerodawn`
-   - Linux: `~/.config/Vortex/plugins/game-horizonzerodawn`
-4. Restart Vortex.
+1. Download the latest version from the **[Releases](../../releases)** page.
+2. Place the downloaded file into your Vortex plugins folder:
+
+   ```text
+   %APPDATA%\Vortex\plugins
+   ```
+
+   💡 Just copy this path, paste it into the Windows Explorer address bar
+   (or press `Win + R`, paste it and hit `Enter`), and it will open the
+   correct folder on any computer — `%APPDATA%` is a Windows environment
+   variable that automatically points to your user's
+   `C:\Users\<YourUsername>\AppData\Roaming` folder.
+
+3. Restart Vortex.
 
 ## 🙏 Credits
 
