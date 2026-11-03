@@ -15,7 +15,7 @@ making it unusable with newer versions of Horizon Zero Dawn (such as **2.8.2**).
 
 ## ✅ The Fix
 
-This repository contains a patched version (**0.0.2**) that fixes the reload
+This repository contains fix for version (**0.0.2**) that fixes the reload
 loop, restoring normal operation of the extension in Vortex for recent game
 versions.
 
