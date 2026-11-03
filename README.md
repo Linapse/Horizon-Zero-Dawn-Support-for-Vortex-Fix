@@ -39,8 +39,7 @@ versions.
 ## 🙏 Credits
 
 - **[vortex-horizonzerodawn](https://github.com/agc93/vortex-horizonzerodawn)**
-  by **[agc93](https://github.com/agc93)** — the original alpha version this
-  fix is based on.
+  by **[agc93](https://github.com/agc93)** — the original alpha version of extension.
   - GitHub: <https://github.com/agc93/vortex-horizonzerodawn>
   - Nexus Mods: <https://www.nexusmods.com/site/mods/335>
   - Original license: [MIT License](https://opensource.org/licenses/MIT)
